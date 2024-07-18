@@ -1,0 +1,422 @@
+2024-07-07:17:59:49	root	INFO	[Classes.py:483]	Init crawl on file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:49	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/
+2024-07-07:17:59:49	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/
+2024-07-07:17:59:49	root	INFO	[Classes.py:1313]	Current url: file:///home/
+2024-07-07:17:59:49	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/
+2024-07-07:17:59:49	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:49	root	INFO	[Functions.py:835]	set_form_values got 0
+2024-07-07:17:59:49	root	INFO	[Functions.py:848]	set_form_values returned 0
+2024-07-07:17:59:49	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:49	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:49	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:49	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:49	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:49	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/
+2024-07-07:17:59:49	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/
+2024-07-07:17:59:49	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/
+2024-07-07:17:59:49	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/
+2024-07-07:17:59:49	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:49	root	INFO	[Functions.py:835]	set_form_values got 0
+2024-07-07:17:59:49	root	INFO	[Functions.py:848]	set_form_values returned 0
+2024-07-07:17:59:49	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:49	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:49	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:49	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:49	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:50	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/
+2024-07-07:17:59:50	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/
+2024-07-07:17:59:50	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/net_Chen/
+2024-07-07:17:59:50	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/
+2024-07-07:17:59:50	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:50	root	INFO	[Functions.py:835]	set_form_values got 0
+2024-07-07:17:59:50	root	INFO	[Functions.py:848]	set_form_values returned 0
+2024-07-07:17:59:50	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:50	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:50	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:50	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:50	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:50	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/
+2024-07-07:17:59:50	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/
+2024-07-07:17:59:50	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/net_Chen/scanner/
+2024-07-07:17:59:50	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/
+2024-07-07:17:59:50	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:50	root	INFO	[Functions.py:835]	set_form_values got 0
+2024-07-07:17:59:50	root	INFO	[Functions.py:848]	set_form_values returned 0
+2024-07-07:17:59:50	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:50	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:50	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:50	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:50	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:50	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:50	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:50	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:50	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:50	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:50	root	INFO	[Functions.py:835]	set_form_values got 1
+2024-07-07:17:59:50	root	INFO	[Functions.py:848]	set_form_values returned 1
+2024-07-07:17:59:50	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:50	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:50	root	INFO	[Classes.py:1437]	from forms [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html 
+2024-07-07:17:59:50	root	INFO	[Classes.py:127]	failed to add node [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, already added
+2024-07-07:17:59:50	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:50	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:50	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:51	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/
+2024-07-07:17:59:51	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/
+2024-07-07:17:59:51	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/net_Chen/scanner/BlackWidow/
+2024-07-07:17:59:51	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/
+2024-07-07:17:59:51	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:51	root	INFO	[Functions.py:835]	set_form_values got 0
+2024-07-07:17:59:51	root	INFO	[Functions.py:848]	set_form_values returned 0
+2024-07-07:17:59:51	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:51	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:51	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:51	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:51	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:51	root	WARNING	[Classes.py:1269]	Falling back to GET
+2024-07-07:17:59:51	root	INFO	[Functions.py:164]	Check edge: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:51	root	INFO	[Functions.py:208]	Follow edge: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:51	root	INFO	[Functions.py:216]	Form, do find_state
+2024-07-07:17:59:51	root	INFO	[Functions.py:91]	find_state method get
+2024-07-07:17:59:51	root	INFO	[Functions.py:91]	find_state method form
+2024-07-07:17:59:51	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:51	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:51	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:51	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:51	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:51	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', 'jAEkPot'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:51	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:51	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:51	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:51	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:51	root	INFO	[Classes.py:1314]	Crawl (edge): [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:51	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:51	root	INFO	[Functions.py:835]	set_form_values got 1
+2024-07-07:17:59:51	root	INFO	[Functions.py:848]	set_form_values returned 1
+2024-07-07:17:59:51	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:51	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:51	root	INFO	[Classes.py:1437]	from forms [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html 
+2024-07-07:17:59:51	root	INFO	[Classes.py:127]	failed to add node [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, already added
+2024-07-07:17:59:51	root	WARNING	[Classes.py:149]	Failed to connect edge, form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get) (True True False)
+2024-07-07:17:59:51	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:51	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:51	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:51	root	INFO	[Classes.py:1230]	prev was form, ATTACK, Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:51	root	INFO	[Classes.py:983]	ATTACKING VECTOR_EDGE: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:51	root	INFO	[Classes.py:989]	PATH LENGTH: 2
+2024-07-07:17:59:51	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:51	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:51	root	INFO	[Classes.py:770]	SAFE: Ignore parameter ('submit', '', '', None)
+2024-07-07:17:59:51	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:51	root	INFO	[Classes.py:880]	find_state method form
+2024-07-07:17:59:51	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:51	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:52	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:52	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:52	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:52	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '<script>xss(10813868)</script>'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:52	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:52	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:52	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:52	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:52	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:52	root	INFO	[Classes.py:770]	SAFE: Ignore parameter ('submit', '', '', None)
+2024-07-07:17:59:52	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:52	root	INFO	[Classes.py:880]	find_state method form
+2024-07-07:17:59:52	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:52	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:52	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:52	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:52	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:52	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '"\'><script>xss(35114242)</script>'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:52	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:52	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:52	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:52	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:52	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:52	root	INFO	[Classes.py:770]	SAFE: Ignore parameter ('submit', '', '', None)
+2024-07-07:17:59:52	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:52	root	INFO	[Classes.py:880]	find_state method form
+2024-07-07:17:59:52	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:52	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:52	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:52	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:52	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:52	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '<img src="x" onerror="xss(60629)">'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:52	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:52	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:52	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:52	root	INFO	[Classes.py:1238]	prev was form, TRACK
+2024-07-07:17:59:52	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:52	root	INFO	[Classes.py:880]	find_state method form
+2024-07-07:17:59:52	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:52	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:53	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:53	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:53	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:53	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', 'vspyxlky'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:53	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:53	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:53	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:53	root	INFO	[Classes.py:943]	Found from tracker! [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:53	root	INFO	[Classes.py:983]	ATTACKING VECTOR_EDGE: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:53	root	INFO	[Classes.py:989]	PATH LENGTH: 2
+2024-07-07:17:59:53	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:53	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:53	root	INFO	[Classes.py:770]	SAFE: Ignore parameter ('submit', '', '', None)
+2024-07-07:17:59:53	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:53	root	INFO	[Classes.py:880]	find_state method form
+2024-07-07:17:59:53	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:53	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:53	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:53	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:53	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:53	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '<script>xss(2938000)</script>'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:53	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:53	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:53	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:53	root	INFO	[Classes.py:1007]	check_edge defined from tracker [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:53	root	INFO	[Functions.py:208]	Follow edge: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:53	root	INFO	[Functions.py:216]	Form, do find_state
+2024-07-07:17:59:53	root	INFO	[Functions.py:91]	find_state method get
+2024-07-07:17:59:53	root	INFO	[Functions.py:91]	find_state method form
+2024-07-07:17:59:53	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:53	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:53	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:53	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:53	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:53	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '<script>xss(2938000)</script>'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:53	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:53	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:53	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:53	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:53	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:53	root	INFO	[Classes.py:770]	SAFE: Ignore parameter ('submit', '', '', None)
+2024-07-07:17:59:53	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:53	root	INFO	[Classes.py:880]	find_state method form
+2024-07-07:17:59:53	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:53	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:53	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:53	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:53	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:53	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '"\'><script>xss(65611165)</script>'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:53	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:54	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:54	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:54	root	INFO	[Classes.py:1007]	check_edge defined from tracker [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:54	root	INFO	[Functions.py:208]	Follow edge: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:54	root	INFO	[Functions.py:216]	Form, do find_state
+2024-07-07:17:59:54	root	INFO	[Functions.py:91]	find_state method get
+2024-07-07:17:59:54	root	INFO	[Functions.py:91]	find_state method form
+2024-07-07:17:59:54	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:54	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:54	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:54	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:54	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:54	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '"\'><script>xss(65611165)</script>'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:54	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:54	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:54	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:54	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:54	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:54	root	INFO	[Classes.py:770]	SAFE: Ignore parameter ('submit', '', '', None)
+2024-07-07:17:59:54	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:54	root	INFO	[Classes.py:880]	find_state method form
+2024-07-07:17:59:54	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:54	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:54	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:54	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:54	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:54	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '<img src="x" onerror="xss(97955431)">'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:54	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:54	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:54	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:54	root	INFO	[Classes.py:1007]	check_edge defined from tracker [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:54	root	INFO	[Functions.py:208]	Follow edge: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:54	root	INFO	[Functions.py:216]	Form, do find_state
+2024-07-07:17:59:54	root	INFO	[Functions.py:91]	find_state method get
+2024-07-07:17:59:54	root	INFO	[Functions.py:91]	find_state method form
+2024-07-07:17:59:54	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:54	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:54	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:54	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:54	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:54	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '<img src="x" onerror="xss(97955431)">'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:54	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:54	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:54	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:54	root	WARNING	[Classes.py:1269]	Falling back to GET
+2024-07-07:17:59:54	root	WARNING	[Classes.py:1241]	Form already done! Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get){('text', 'userInput', None): ('text', 'userInput', '<img src="x" onerror="xss(97955431)">'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:54	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/
+2024-07-07:17:59:54	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/
+2024-07-07:17:59:54	root	INFO	[Classes.py:1313]	Current url: file:///home/
+2024-07-07:17:59:54	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/
+2024-07-07:17:59:54	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:54	root	INFO	[Functions.py:835]	set_form_values got 0
+2024-07-07:17:59:54	root	INFO	[Functions.py:848]	set_form_values returned 0
+2024-07-07:17:59:54	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:54	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:54	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:54	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:54	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:55	root	WARNING	[Classes.py:1269]	Falling back to GET
+2024-07-07:17:59:55	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/
+2024-07-07:17:59:55	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/
+2024-07-07:17:59:55	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/
+2024-07-07:17:59:55	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/
+2024-07-07:17:59:55	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:55	root	INFO	[Functions.py:835]	set_form_values got 0
+2024-07-07:17:59:55	root	INFO	[Functions.py:848]	set_form_values returned 0
+2024-07-07:17:59:55	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:55	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:55	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:55	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:55	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:55	root	INFO	[Functions.py:164]	Check edge: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:55	root	INFO	[Functions.py:208]	Follow edge: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:55	root	INFO	[Functions.py:216]	Form, do find_state
+2024-07-07:17:59:55	root	INFO	[Functions.py:91]	find_state method get
+2024-07-07:17:59:55	root	INFO	[Functions.py:91]	find_state method form
+2024-07-07:17:59:55	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:55	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:55	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:55	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:55	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:55	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '<img src="x" onerror="xss(97955431)">'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:55	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:55	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:55	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:55	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:55	root	INFO	[Classes.py:1314]	Crawl (edge): [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:55	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:55	root	INFO	[Functions.py:835]	set_form_values got 1
+2024-07-07:17:59:55	root	INFO	[Functions.py:848]	set_form_values returned 1
+2024-07-07:17:59:55	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:55	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:55	root	INFO	[Classes.py:1437]	from forms [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html 
+2024-07-07:17:59:55	root	INFO	[Classes.py:127]	failed to add node [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, already added
+2024-07-07:17:59:55	root	WARNING	[Classes.py:149]	Failed to connect edge, form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get) (True True False)
+2024-07-07:17:59:55	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:55	root	INFO	[Classes.py:1448]	from events [event] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html 
+2024-07-07:17:59:55	root	INFO	[Classes.py:1455]	Not allowed to add edge: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(event Event(onerror, /html/body/div/img)[False])-> [event] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:55	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:55	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:56	root	WARNING	[Classes.py:1241]	Form already done! Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get){('text', 'userInput', None): ('text', 'userInput', '<img src="x" onerror="xss(97955431)">'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:56	root	WARNING	[Classes.py:1269]	Falling back to GET
+2024-07-07:17:59:56	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/
+2024-07-07:17:59:56	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/
+2024-07-07:17:59:56	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/net_Chen/
+2024-07-07:17:59:56	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/
+2024-07-07:17:59:56	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:56	root	INFO	[Functions.py:835]	set_form_values got 0
+2024-07-07:17:59:56	root	INFO	[Functions.py:848]	set_form_values returned 0
+2024-07-07:17:59:56	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:56	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:56	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:56	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:56	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:56	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/
+2024-07-07:17:59:56	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/
+2024-07-07:17:59:56	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/net_Chen/scanner/
+2024-07-07:17:59:56	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/
+2024-07-07:17:59:56	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:56	root	INFO	[Functions.py:835]	set_form_values got 0
+2024-07-07:17:59:56	root	INFO	[Functions.py:848]	set_form_values returned 0
+2024-07-07:17:59:56	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:56	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:56	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:56	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:56	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:56	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:56	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:56	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:56	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:56	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:56	root	INFO	[Functions.py:835]	set_form_values got 1
+2024-07-07:17:59:56	root	INFO	[Functions.py:848]	set_form_values returned 1
+2024-07-07:17:59:56	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:56	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:56	root	INFO	[Classes.py:1437]	from forms [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html 
+2024-07-07:17:59:56	root	INFO	[Classes.py:127]	failed to add node [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, already added
+2024-07-07:17:59:56	root	WARNING	[Classes.py:149]	Failed to connect edge, form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get) (True True False)
+2024-07-07:17:59:56	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:56	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:56	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:56	root	WARNING	[Classes.py:1269]	Falling back to GET
+2024-07-07:17:59:56	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/
+2024-07-07:17:59:56	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/
+2024-07-07:17:59:56	root	INFO	[Classes.py:1313]	Current url: file:///home/tournesol/net_Chen/scanner/BlackWidow/
+2024-07-07:17:59:56	root	INFO	[Classes.py:1314]	Crawl (edge): [get] ROOTREQ -(get None[False])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/
+2024-07-07:17:59:56	root	DEBUG	[Urls.py:101]	URLs from extract_urls set()
+2024-07-07:17:59:56	root	INFO	[Functions.py:835]	set_form_values got 0
+2024-07-07:17:59:56	root	INFO	[Functions.py:848]	set_form_values returned 0
+2024-07-07:17:59:57	root	INFO	[Classes.py:1424]	Adding requests from URLs
+2024-07-07:17:59:57	root	INFO	[Classes.py:1434]	Adding requests from froms
+2024-07-07:17:59:57	root	INFO	[Classes.py:1445]	Adding requests from events
+2024-07-07:17:59:57	root	INFO	[Classes.py:1457]	Adding requests from iframes
+2024-07-07:17:59:57	root	INFO	[Classes.py:1469]	Adding requests from ui_forms
+2024-07-07:17:59:57	root	WARNING	[Classes.py:1269]	Falling back to GET
+2024-07-07:17:59:57	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:57	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:57	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:57	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/
+2024-07-07:17:59:57	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/
+2024-07-07:17:59:57	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:57	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/tournesol/
+2024-07-07:17:59:57	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/tournesol/
+2024-07-07:17:59:57	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:57	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/tournesol/net_Chen/
+2024-07-07:17:59:57	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/tournesol/net_Chen/
+2024-07-07:17:59:57	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:57	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/tournesol/net_Chen/scanner/
+2024-07-07:17:59:57	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/tournesol/net_Chen/scanner/
+2024-07-07:17:59:57	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:57	root	INFO	[Functions.py:164]	Check edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/
+2024-07-07:17:59:57	root	INFO	[Functions.py:208]	Follow edge: [get] ROOTREQ -(get None[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/
+2024-07-07:17:59:57	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:57	root	INFO	[Classes.py:983]	ATTACKING VECTOR_EDGE: [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html -(form Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)[True])-> [get] file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html
+2024-07-07:17:59:57	root	INFO	[Classes.py:989]	PATH LENGTH: 2
+2024-07-07:17:59:57	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:57	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:57	root	INFO	[Classes.py:770]	SAFE: Ignore parameter ('submit', '', '', None)
+2024-07-07:17:59:57	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:57	root	INFO	[Classes.py:880]	find_state method form
+2024-07-07:17:59:57	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:57	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:57	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:57	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:57	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:57	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '<script>xss(35637633)</script>'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:57	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:57	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:57	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:57	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:57	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:57	root	INFO	[Classes.py:770]	SAFE: Ignore parameter ('submit', '', '', None)
+2024-07-07:17:59:57	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:57	root	INFO	[Classes.py:880]	find_state method form
+2024-07-07:17:59:57	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:57	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:57	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:57	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:57	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:57	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '"\'><script>xss(81879127)</script>'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:57	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:57	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:57	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:58	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:58	root	DEBUG	[Classes.py:763]	Starting SAFE attack
+2024-07-07:17:59:58	root	INFO	[Classes.py:770]	SAFE: Ignore parameter ('submit', '', '', None)
+2024-07-07:17:59:58	root	INFO	[Classes.py:880]	find_state method get
+2024-07-07:17:59:58	root	INFO	[Classes.py:880]	find_state method form
+2024-07-07:17:59:58	root	DEBUG	[Functions.py:438]	Filling Form(2, file:///home/tournesol/net_Chen/scanner/BlackWidow/simple_page.html, get)
+2024-07-07:17:59:58	root	INFO	[Functions.py:447]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:58	root	WARNING	[Functions.py:513]	Default handling for ('text', 'userInput', None) 
+2024-07-07:17:59:58	root	INFO	[Functions.py:576]	Filling in input userInput
+2024-07-07:17:59:58	root	WARNING	[Functions.py:574]	[inputs] could NOT FIND ('submit', None, None, None)
+2024-07-07:17:59:58	root	WARNING	[Functions.py:575]	--{('text', 'userInput', None): ('text', 'userInput', '<img src="x" onerror="xss(11825797)">'), ('submit', '', '', None): ('submit', '', '', True)}
+2024-07-07:17:59:58	root	INFO	[Functions.py:576]	Filling in input 
+2024-07-07:17:59:58	root	INFO	[Functions.py:689]	form_fill Javascript submission of form
+2024-07-07:17:59:58	root	INFO	[Functions.py:700]	No alert removed (probably due to there not being any)
+2024-07-07:17:59:58	root	INFO	[Classes.py:1151]	Starting quick scan to find stored XSS
+2024-07-07:17:59:58	root	INFO	[Classes.py:1164]	-- Total: set()

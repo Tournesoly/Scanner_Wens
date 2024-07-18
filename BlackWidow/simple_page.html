@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vulnerable XSS Test Page</title>
+    <script>
+        function showInput() {
+            var userInput = document.getElementById('userInput').value;
+            // 直接将用户输入显示在页面上，没有进行任何过滤或转义
+            document.getElementById('display').innerHTML = "User input: " + userInput;
+        }
+    </script>
+</head>
+<body>
+    <h1>XSS Vulnerability Test Page</h1>
+
+    <form onsubmit="event.preventDefault(); showInput();">
+        <label for="userInput">Enter some text:</label>
+        <input type="text" id="userInput" name="userInput"><br><br>
+        <button type="submit">Submit</button>
+    </form>
+
+    <div id="display"></div>
+
+    <script>
+        // Function to create an alert
+        function showAlert() {
+            alert('This is a test alert!');
+        }
+        // Trigger alert after 2 seconds
+        setTimeout(showAlert, 2000);
+    </script>
+</body>
+</html>
